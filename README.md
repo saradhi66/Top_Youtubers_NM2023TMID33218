@@ -8,4 +8,4 @@ Dash board Link 3: https://public.tableau.com/views/datalitrcywithtablue/Dashboa
 
 Dash board Link 4: https://public.tableau.com/views/datalitrcywithtablue/Dashboard4?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
-Story Link: https://public.tableau.com/shared/PQPPPJZDY?:display_count=n&:origin=viz_share_link13
+Story Link: https://public.tableau.com/shared/PQPPPJZDY?:display_count=n&:origin=vi 
